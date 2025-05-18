@@ -2,9 +2,7 @@
 
 <p align="center">
     <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-blue" alt="license MIT"></a>
-    <!-- 如果有QQ群或其他社区链接，可以添加 -->
-    <!-- <a href="YOUR_QQ_GROUP_LINK"><img src="https://img.shields.io/badge/QQ%E7%BE%A4-YOUR_GROUP_NUMBER-green" alt="QQ群"></a> -->
-    <a href="https://github.com/YOUR_USERNAME/YOUR_REPO_NAME"><img src="https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO_NAME?style=social" alt="GitHub Stars"></a>
+    <a href="https://github.com/wenmoux/WuxiaAdventureGame"><img src="https://img.shields.io/github/stars/wenmoux/WuxiaAdventureGame?style=social" alt="GitHub Stars"></a>
 </p>
 
 ## 项目简介
